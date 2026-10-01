@@ -1,2 +1,4 @@
 setir 1
 setir 2
+setir 3
+setir 4
